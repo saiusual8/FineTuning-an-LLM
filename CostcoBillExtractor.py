@@ -6,7 +6,7 @@ import re
 import cv2
 
 # Load the image
-image_path = '/Users/saitejagudidevini/Documents/costcobills/costcobill.jpg.webp'
+image_path = 'Paste the receipt in JPG, or PNG Format'
 img = cv2.imread(image_path)
 
 #Step1: Convert the image to grayscale
